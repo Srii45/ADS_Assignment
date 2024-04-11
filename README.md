@@ -1,13 +1,20 @@
 **Named Entity Recognition (NER) Script**
+
 **Overview**
+
 Named Entity Recognition (NER) is a fundamental Natural Language Processing (NLP) technique used to identify and categorize named entities within text. These entities can include names of people, places, organizations, dates, and more. The NER script provided here utilizes the spaCy library to recognize named entities in a text document.
 
 **Usage**
-Ensure that spaCy is installed by running pip install spacy.
-Download the English language model "en_core_web_sm" by running python -m spacy download en_core_web_sm.
-Modify the input and output file paths in the provided Python script to match your setup.
-Execute the script, providing a text document containing 200-300 words as input.
-The recognized named entities along with their labels will be written to the specified output file.
+1.Ensure that spaCy is installed by running pip install spacy.
+
+2.Download the English language model "en_core_web_sm" by running python -m spacy download en_core_web_sm.
+
+3.Modify the input and output file paths in the provided Python script to match your setup.
+
+4.Execute the script, providing a text document containing 200-300 words as input.
+
+5.The recognized named entities along with their labels will be written to the specified output file.
+
 
 **Karate Club Network Analysis Script**
 **Overview**
