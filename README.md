@@ -17,7 +17,8 @@ Named Entity Recognition (NER) is a fundamental Natural Language Processing (NLP
 5.The recognized named entities along with their labels will be written to the specified output file.
 
 
-**Karate Club Network Analysis Script**
+
+***Karate Club Network Analysis Script***
 
 **Overview**
 
@@ -31,12 +32,12 @@ This Python script analyzes Zachary's karate club network, which is represented 
 
 3.Execute the script to perform the following tasks:
 
-*Create a graph from the "karate.gml" file and display basic information about the network.
+  *Create a graph from the "karate.gml" file and display basic information about the network.
 
-*Store metadata of actors in the network.
+  *Store metadata of actors in the network.
 
-*Calculate centrality measures (degree, betweenness, closeness, eigenvector, and pagerank centrality) and provide an analysis based on the centrality values.
+  *Calculate centrality measures (degree, betweenness, closeness, eigenvector, and pagerank centrality) and provide an       analysis based on the centrality values.
 
-*Find possible k-components of the network and compute the clustering coefficient.
+  *Find possible k-components of the network and compute the clustering coefficient.
 
-*Identify communities using the Girvan-Newman algorithm and Louvain method.
+  *Identify communities using the Girvan-Newman algorithm and Louvain method.
